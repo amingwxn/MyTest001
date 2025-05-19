@@ -1,3 +1,4 @@
+//this is a test for github -- amingwxn@163.com
 void main(void)
 {
 	uint8_t x = 0;
